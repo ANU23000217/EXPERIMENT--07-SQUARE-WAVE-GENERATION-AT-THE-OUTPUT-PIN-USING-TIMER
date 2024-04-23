@@ -54,7 +54,6 @@ Choose The Target MCU & Double-Click Its Name select the target to be programmed
 
 ## Step3: 
 Configure Timer2 Peripheral To Operate In PWM Mode With CH1 Output
-![image](https://github.com/vasanthkumarch/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/36288975/682c851a-7dfe-4089-8395-f76088d43896)
 
 
 ## Step4:
@@ -77,7 +76,8 @@ Name & Generate The Project Initialization Code For CubeIDE or The IDE You’re 
 Creating Proteus project and running the simulation
 We are now at the last part of step by step guide on how to simulate STM32 project in Proteus.
 
-## Step9: Create a new Proteus project and place STM32F40xx i.e. the same MCU for which the project was created in STM32Cube IDE. 
+## Step9:
+ Create a new Proteus project and place STM32F40xx i.e. the same MCU for which the project was created in STM32Cube IDE. 
  After creation of the circuit as per requirement as shown below 
 
 ## Step10:
